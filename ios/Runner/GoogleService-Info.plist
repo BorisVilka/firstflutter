@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>908933759723-leo99vqcprf41pnaepbq15mqn16ukjbf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.908933759723-leo99vqcprf41pnaepbq15mqn16ukjbf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>908933759723-7v2ekd1qutt7qm6nji4770f8ho21jhsb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTXwNRmCkJqXxbM0PS7TCOmw6FC7ex02E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>908933759723</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.cosmeticproject</string>
+	<key>PROJECT_ID</key>
+	<string>cosmeticproject-7034b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cosmeticproject-7034b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:908933759723:ios:171d7149a8ace3f13074ae</string>
+</dict>
+</plist>
